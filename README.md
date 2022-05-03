@@ -1,4 +1,6 @@
-Guess the Number Game
+**Guess the Number Game**
+
+
 A Game where you and the computer battle to guess each others numbers.
 
 It has been in developmet since January 2022. The application is currently in version 2, released in March 2022, with Version 2.1 being currently worked on.
